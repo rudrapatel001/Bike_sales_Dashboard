@@ -1,7 +1,3 @@
-Creating a README file for your GitHub project is a great way to provide an overview and guide users through your work. Here’s a template you can use and customize for your data analysis project in Excel:
-
----
-
 # Bike Sales Data Analysis Dashboard
 
 ## Overview
